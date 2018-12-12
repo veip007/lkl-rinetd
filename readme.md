@@ -13,4 +13,4 @@ Update History
 https://github.com/tcp-nanqinlang/lkl-rinetd/releases
 
 中文文档  
-https://github.com/tcp-nanqinlang/wiki/wiki/lkl-rinetd
+https://github.com/veip007/wiki/blob/master/lkl-rinetd.md
